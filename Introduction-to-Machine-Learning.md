@@ -1,4 +1,5 @@
-# Udacity Lesson - 2
+# Microsoft Azure Machine Learning - Udacity Lesson - 2
+
 ---
 👉Data Science Process -
 1. Collect Data
