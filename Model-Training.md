@@ -153,5 +153,5 @@ There are three types of ensemble models:
 - final predictions are weighted average from the individual models.
 
 3. Stacking - 
-1. Trains a large number of completely different models.
-2. Combines the output of individual models into a meta model that yields more accurate predictions 
+- Trains a large number of completely different models.
+- Combines the output of individual models into a meta model that yields more accurate predictions 
