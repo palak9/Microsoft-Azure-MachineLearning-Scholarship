@@ -68,7 +68,7 @@ Drawback : implicitly assumes order across the categories which is meaningless.
 2. Vertical position of each pixel.
 3. Color of each pixel. 
 
-Size of the vector = height*width*depth of that image. 
+Size of the vector = height x width x depth of that image. 
 Each cell in the matrix represents the pixel value. 
 
 ---
