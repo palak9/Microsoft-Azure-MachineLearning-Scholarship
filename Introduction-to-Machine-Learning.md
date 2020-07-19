@@ -21,10 +21,11 @@ $ It's all numerical in the end
 ---
 
 👉Tabular Data:
-Data that is arranged in a data table. Similar to the spreadsheet.
-Row - an item/entity
-Column - a property 
-Single value - cell
+  Data that is arranged in a data table. Similar to the spreadsheet.
+  
+    1. Row - an item/entity
+    2. Column - a property 
+    3. Single value - cell
 
 In ML we ultimately work with vectors 
 Vector - an array of numbers or a nested array that contains other arrays of numbers.
