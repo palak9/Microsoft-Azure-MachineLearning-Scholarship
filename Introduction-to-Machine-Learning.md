@@ -130,3 +130,20 @@ III. Visualization
 2. Seaborn
 3. Matplotlib
 4. Bokeh
+
+---
+
+👉Model Vs Algorithms 
+
+- **Model - specific representation learned from data** 
+
+- **Algorithms - are the process of learning** 
+
+- **Model = Algorithm(data)**
+
+---
+
+👉Learning Function
+
+Algorithm aim to learn a target function (f) that describes the mapping between data and input variables X and an output variable Y. 
+Since the process extrapolates from a limited set of values there will always be an error e which is independent of input. This error is called irreducible error. This is caused by the data collection process such as when we don't have enough data or features. Irreducible error is different than model error. Model error is generated from the model and can be reduced during model learning process. 
