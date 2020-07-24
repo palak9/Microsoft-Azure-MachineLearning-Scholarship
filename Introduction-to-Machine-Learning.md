@@ -1,4 +1,4 @@
-# Microsoft Azure Machine Learning - Udacity Lesson - 2
+# Microsoft Azure Machine Learning by Udacity - Lesson 1 : Introduction to ML
 
 ---
 👉Data Science Process -
