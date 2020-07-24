@@ -1,4 +1,4 @@
-# Microsoft Azure Machine Learning by Udacity - Lesson 4 : Supervised and Unsupervised Learning
+# Microsoft Azure Machine Learning by Udacity - Lesson 3 : Supervised and Unsupervised Learning
 
 👉Supervised Learning : Classification 
 There are several main approaches, which differ based on how many classes or categories are used, and whether each output can belong to only one class or multiple classes. 
