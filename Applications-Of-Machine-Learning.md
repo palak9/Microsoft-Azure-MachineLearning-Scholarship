@@ -7,7 +7,7 @@
 
 👉What is Deep Learning
 
-Machine Learning is a subset of AI and Deep Learning is a subset of Machine Learning which refers to a special class of algorithms based on neural networks. 
+  Machine Learning is a subset of AI and Deep Learning is a subset of Machine Learning which refers to a special class of algorithms based on neural networks. 
 
 👉Characteristics of DL
 
@@ -36,21 +36,26 @@ Machine Learning is a subset of AI and Deep Learning is a subset of Machine Lear
 6. Autonomous vehicles and much more
 
 Eg: Deep learning in text analytics 
-- search, semantics, sentiments, summarization, classification, clustering. 
+- Search
+- Semantics
+- Sentiments
+- Summarization
+- Classification
+- Clustering 
 
 👉 Approaches to Machine Learning 
 These are three main approaches 
-Supervised Learning : 
-​Classification 
-​Regression
-​Similarity Learning - learns from examples using a similarity function, used in recommendation systems.
-​Feature Learning
-​Anomaly Detection - learns from data labeled as normal/abnormal 
+1. Supervised Learning : 
+​ Classification 
+​ Regression
+​ Similarity Learning - learns from examples using a similarity function, used in recommendation systems.
+​ Feature Learning
+​ Anomaly Detection - learns from data labeled as normal/abnormal 
 
-​Unsupervised Learning : 
-​Clustering 
-​Feature Learning - features are learned from unlabeled data.
-​Anomaly Detection - learns from unlabeled data assuming most entities are normal.
+2. Unsupervised Learning : 
+​ Clustering 
+​ Feature Learning - features are learned from unlabeled data.
+​ Anomaly Detection - learns from unlabeled data assuming most entities are normal.
 
-​Reinforcement Learning - learns how an agent should take action in an environment to maximize a reward function.
-​Markov Decision Process - does not assume knowledge of an exact mathematical model.
+3. Reinforcement Learning - learns how an agent should take action in an environment to maximize a reward function.
+​ Markov Decision Process - does not assume knowledge of an exact mathematical model.
