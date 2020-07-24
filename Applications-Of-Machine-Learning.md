@@ -35,7 +35,7 @@
 5. Predictive Analytics
 6. Autonomous vehicles and much more
 
-Eg: Deep learning in text analytics 
+  Eg: Deep learning in Text Analytics :  
 - Search
 - Semantics
 - Sentiments
