@@ -1,4 +1,4 @@
-Microsoft Azure Machine Learning by Udacity - Lesson 4 : Supervised and Unsupervised Learning
+# Microsoft Azure Machine Learning by Udacity - Lesson 4 : Supervised and Unsupervised Learning
 
 👉Supervised Learning : Classification 
 There are several main approaches, which differ based on how many classes or categories are used, and whether each output can belong to only one class or multiple classes. 
@@ -33,7 +33,7 @@ Categories of Regression :
 $ Linear Regression - linear relation between independent variables and numeric outcome.
 Approaches: 
 I. Ordinary least squares method.
-II. Graduent descent.
+II. Gradient descent.
 
 $ Decision Forest Regression - 
 - Ensemble learning method using multiple decision trees.
@@ -43,14 +43,14 @@ $ Decision Forest Regression -
 $ Neural Network Regression - 
 - supervised learning method 
 - label column must be numerical data type
-- input layer+one hidden layer+output layer
+- input layer + one hidden layer + output layer
 
 👉Automate the Training of Regressors
 
 - Conventional Machine Learning process:
-1. Features available in the dataset
-2. Suitable Algorithms
-3. Hyperparameters tuning
+1. Features available in the dataset.
+2. Suitable Algorithms.
+3. Hyperparameters tuning.
 4. Evaluation metrics. 
 
 👉What is automated ML? 
@@ -60,7 +60,7 @@ $ Intelligently test multiple algorithms and hyperparameters in parallel and ret
 
 👉The Automated ML Process : 
 
-- User input   > automated ML >  Leader board
+- User input > automated ML > Leader board
     
 1. User input can be Dataset, Target metric Or constraints. 
 2. Automate ML will have iterations having features + algorithm + hyper parameters along with training score of every iteration.  
