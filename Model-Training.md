@@ -1,4 +1,4 @@
-# Microsoft Azure Machine Learning - Udacity Lesson 3
+# Microsoft Azure Machine Learning - Udacity Lesson 3 : Model Training
 
 
 👉Data Import and Transformation : 
