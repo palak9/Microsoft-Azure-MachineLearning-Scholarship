@@ -1,15 +1,15 @@
 # Microsoft Azure Machine Learning by Udacity - Lesson 5: Applications of ML
 
-👉Classical ML vs Deep Learning
+👉Classical ML vs Deep Learning :
 
 - Artificial Intelligence includes Machine Learning, which includes Deep Learning. 
 - All DL algorithms are particular cases of ML algorithms, but it's not true that all ML algorithms are DL. 
 
-👉What is Deep Learning
+👉What is Deep Learning :
 
   Machine Learning is a subset of AI and Deep Learning is a subset of Machine Learning which refers to a special class of algorithms based on neural networks. 
 
-👉Characteristics of DL
+👉Characteristics of DL :
 
 - Highly effective in learning multi-dimensional, nonlinear functions. 
 - Massive amounts of training data
@@ -17,7 +17,7 @@
 -  Automatic Feature extraction 
 - Computationally expensive (GPUs/TPUs)
 
-👉Benefits of DL
+👉Benefits of DL :
 
 - The non-parametric approach taken by neural nets allows them to learn arbitrarily complex functions.
 - They can learn complex patterns without explicitly seeing them. 
@@ -27,7 +27,7 @@
 - Can learn time-related patterns (RNN).
 - Capable of reaching on - par performance with certain human activities. 
 
-👉Applications of DL
+👉Applications of DL :
 1. Language Translation 
 2. Image recognition
 3. Speech Recognition
@@ -43,7 +43,7 @@
 - Classification
 - Clustering 
 
-👉 Approaches to Machine Learning 
+👉 Approaches to Machine Learning : 
 These are three main approaches 
 1. Supervised Learning : 
 ​ Classification 
@@ -57,5 +57,5 @@ These are three main approaches
 ​ Feature Learning - features are learned from unlabeled data.
 ​ Anomaly Detection - learns from unlabeled data assuming most entities are normal.
 
-3. Reinforcement Learning - learns how an agent should take action in an environment to maximize a reward function.
+3. Reinforcement Learning : Learns how an agent should take action in an environment to maximize a reward function.
 ​ Markov Decision Process - does not assume knowledge of an exact mathematical model.
