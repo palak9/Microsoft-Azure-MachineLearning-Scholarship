@@ -1,4 +1,4 @@
-# Microsoft Azure Machine Learning by Udacity - Lesson 5: Applications of ML
+# Microsoft Azure Machine Learning by Udacity - Lesson 4: Applications of ML
 
 👉Classical ML vs Deep Learning :
 
