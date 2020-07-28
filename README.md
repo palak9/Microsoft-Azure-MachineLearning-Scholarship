@@ -2,7 +2,7 @@
 
 This repository is maintained to summarize the concepts in Machine Learning using Microsoft Azure ML Studio.
 
-**INDEX OF CONTENTS**
+**CONTENTS**
 
 - Lesson 1 : <a href="https://github.com/palak9/Microsoft-Azure-MachineLearning-Scholarship/blob/master/Introduction-to-Machine-Learning.md">Introduction to Machine Learning</a>
 
